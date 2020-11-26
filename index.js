@@ -1,4 +1,4 @@
-const firstNames = require('fs').readFileSync('./first_names.txt').toString().split('\n').map(firstName => {
+const firstNames = require('fs').readFileSync(__dirname + '/first_names.txt').toString().split('\n').map(firstName => {
 	return ({
 		original: firstName,
 		lowercase: firstName.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace('-', '')
