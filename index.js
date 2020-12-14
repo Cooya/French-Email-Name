@@ -10,12 +10,10 @@ function extractFirstNameFromEmail(email) {
 	if(emailSplit[0].match(/^[a-z]\.[a-z]+$/))
 		return null;
 
-	if(emailSplit[0].match(/^[a-z]+\.[a-z]+$/)) {
-		for(let firstName of firstNames) {
+	if(emailSplit[0].match(/^[a-z]+\.[a-z]+$/))
+		for(let firstName of firstNames)
 			if(emailSplit[0].match(new RegExp('^' + firstName.lowercase + '\\.')))
 				return firstName.original;
-		}
-	}
 
 	const hardMatches = [];
 	const easyMatches = [];
@@ -23,7 +21,7 @@ function extractFirstNameFromEmail(email) {
 	for(let firstName of firstNames) {
 		if(emailSplit[0].match(new RegExp(`\\b${firstName.lowercase}\\b`)))
 			hardMatches.push(firstName.original);
-		if(emailSplit[0].includes(firstName.lowercase) && !emailSplit[0].match(new RegExp(`[a-z.]${firstName.lowercase}[a-z.]`)))
+		if(emailSplit[0].includes(firstName.lowercase) && !emailSplit[0].match(new RegExp(`[a-z.]${firstName.lowercase}[a-z.]`)) && emailSplit[0].length - 1 > firstName.lowercase)
 			easyMatches.push(firstName.original);
 	}
 
