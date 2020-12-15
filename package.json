@@ -1,6 +1,6 @@
 {
   "name": "french-email-name",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Extract the french first name from an email address",
   "main": "index.js",
   "scripts": {
