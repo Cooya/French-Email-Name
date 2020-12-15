@@ -21,7 +21,7 @@ function extractFirstNameFromEmail(email) {
 	for(let firstName of firstNames) {
 		if(emailSplit[0].match(new RegExp(`\\b${firstName.lowercase}\\b`)))
 			hardMatches.push(firstName.original);
-		if(emailSplit[0].includes(firstName.lowercase) && !emailSplit[0].match(new RegExp(`[a-z.]${firstName.lowercase}[a-z.]`)) && emailSplit[0].length - 1 > firstName.lowercase)
+		if(emailSplit[0].includes(firstName.lowercase) && !emailSplit[0].match(new RegExp(`[a-z.]${firstName.lowercase}[a-z.]`)) && emailSplit[0].length - 1 > firstName.lowercase.length)
 			easyMatches.push(firstName.original);
 	}
 
