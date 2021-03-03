@@ -7,6 +7,7 @@ Abdelaziz
 Abdelkader
 Abdellah
 Abderrahmane
+Abdesslem
 Abdou
 Abdoul
 Abdoul-Aziz
@@ -63,6 +64,7 @@ Aicha
 Aidan
 Aiden
 Aimeline
+Aimen
 Aimé
 Aimée
 Aisha
@@ -242,6 +244,7 @@ Anne-Valerie
 Annette
 Annick
 Annie
+Annie-Claude
 Annielle
 Annik
 Anouchka
@@ -354,6 +357,7 @@ Aymeric
 Ayna
 Ayoub
 Ayrton
+Aysel
 Aysha
 Azad
 Aziz
@@ -376,6 +380,7 @@ Babeth
 Badis
 Bafodé
 Bahia
+Bahria
 Bakary
 Balkis
 Balthazar
@@ -399,6 +404,7 @@ Benjamin
 Benoît
 Bernadette
 Bernard
+Bernardino
 Bertille
 Bertrand
 Bettina
@@ -473,6 +479,7 @@ Carles
 Carlos
 Carlotta
 Carmen
+Carola
 Carole
 Carolina
 Caroline
@@ -491,6 +498,7 @@ Celeste
 Cerise
 Chad
 Chaden
+Chadlia
 Chafik
 Chahine
 Chahinez
@@ -541,6 +549,7 @@ Christobal
 Christoly
 Christophe
 Christopher
+Chrystian
 Chrystel
 Chrystelle
 Chérine
@@ -553,6 +562,7 @@ Clara
 Clarence
 Clarisse
 Claude
+Claude-Marie
 Claudia
 Claudie
 Claudine
@@ -600,6 +610,7 @@ Cyrine
 Cyrus
 Cécile
 Cécilia
+Cécilie
 Cédric
 Cédrick
 Céleste
@@ -628,6 +639,7 @@ Dana
 Danaé
 Dani
 Dania
+Danick
 Daniel
 Daniela
 Daniella
@@ -649,6 +661,7 @@ Darius
 Darren
 David
 David-Anthony
+Davina
 Dayan
 Dayane
 Deborah
@@ -659,12 +672,14 @@ Demba
 Denis
 Denise
 Deniz
+Deric
 Diaba
 Diaby
 Diana
 Diane
 Didier
 Diego
+Dieudonné
 Dieynaba
 Dimitri
 Dina
@@ -677,6 +692,8 @@ Djeneba
 Djenna
 Djibril
 Djénéba
+Dominic
+Dominika
 Dominique
 Domitille
 Donatella
@@ -685,6 +702,7 @@ Donia
 Dora
 Dorian
 Doriane
+Dorine
 Doron
 Dorothée
 Dounia
@@ -789,6 +807,7 @@ Elyna
 Elyne
 Elyssa
 Elyès
+Elza
 Eléa
 Eléa
 Eléanor
@@ -936,6 +955,7 @@ Flore
 Florence
 Florent
 Florentin
+Florette
 Florian
 Floriane
 Fodé
@@ -1022,6 +1042,7 @@ Gloria
 Gonzague
 Goundo
 Grace
+Graziela
 Graziella
 Greta
 Grâce
@@ -1037,6 +1058,7 @@ Gustave
 Guy
 Guylaine
 Guylène
+Gwen
 Gwenaël
 Gwenaëlle
 Gwendal
@@ -1044,11 +1066,13 @@ Gwendelle
 Gwendoline
 Gwendolyn
 Gwendolyne
+Gwennaël
 Gwladys
 Gérald
 Géraldine
 Gérard
 Géraud
+Gérôme
 Habib
 Habiba
 Haby
@@ -1095,7 +1119,6 @@ Haïm
 Hector
 Hedi
 Heidi
-Helena
 Hella
 Helmi
 Henri
@@ -1236,6 +1259,7 @@ Jacqueline
 Jacques
 Jade
 Jaden
+Jaïd
 Jalil
 Jamal
 James
@@ -1267,6 +1291,7 @@ Jean-Daniel
 Jean-David
 Jean-Emmanuel
 Jean-François
+Jean-Georges
 Jean-Jacques
 Jean-Léon
 Jean-Louis
@@ -1274,6 +1299,7 @@ Jean-Loup
 Jean-Luc
 Jean-Marc
 Jean-Marie
+Jean-Mary
 Jean-Michel
 Jean-Paul
 Jean-Philippe
@@ -1318,6 +1344,7 @@ Jodie
 Joe
 Joela
 Joey
+Joffrey
 Johan
 Johana
 Johann
@@ -1405,6 +1432,7 @@ Karl
 Karla
 Karol
 Karolina
+Karolyn
 Karène
 Kassandra
 Kassim
@@ -1412,6 +1440,7 @@ Katarina
 Kate
 Kateline
 Katell
+Katerina
 Kathleen
 Katia
 Kawtar
@@ -1502,10 +1531,12 @@ Laureen
 Laureline
 Lauren
 Laurence
+Laurencie
 Laurent
 Lauriane
 Laurianne
 Laurie
+laurinda
 Laurine
 Lauryn
 Laurène
@@ -1713,8 +1744,6 @@ Madina
 Mado
 Madoussou
 Mady
-Maelle
-Maelys
 Magali
 Magalie
 Magdalena
@@ -1941,6 +1970,7 @@ Maëlle
 Maëly
 Maëlyne
 Maëlys
+Maëlyse
 Maëva
 Maïa
 Maïly
@@ -1971,6 +2001,7 @@ Merve
 Merwan
 Meryam
 Meryem
+Meryeme
 Meryl
 Meyron
 Meyssa
@@ -2256,6 +2287,7 @@ Paul-Emile
 Paul-Eric
 Paula
 Paule
+Paulette
 Paulin
 Pauline
 Pedro
@@ -2268,6 +2300,7 @@ Peter
 Pharell
 Philibert
 Philip
+Philipe
 Philippa
 Philippe
 Philippine
@@ -2287,6 +2320,7 @@ Pierre-Jean
 Pierre-Louis
 Pierre-Nicolas
 Pierre-Olivier
+Pierre-Yves
 Pierrette
 Pierrick
 Pierro
@@ -2397,6 +2431,7 @@ Roxelane
 Ruben
 Rubens
 Ruby
+Ruddy
 Rudy
 Ruth
 Ryad
@@ -2479,6 +2514,7 @@ Saül
 Scarlett
 Scott
 Sean
+Sebouh
 Sekou
 Selena
 Selim
@@ -2558,6 +2594,7 @@ Solange
 Solenn
 Soline
 Solveig
+Soléna
 Solène
 Solènne
 Sonia
@@ -2584,6 +2621,7 @@ Steeve
 Steeven
 Stefan
 Stefania
+Stéfanie
 Stella
 Steve
 Steven
@@ -2684,6 +2722,7 @@ Tiago
 Tiana
 Tidiane
 Tidjane
+Tifenn
 Tiffanny
 Tiffany
 Tiguida
@@ -2761,6 +2800,7 @@ Viviane
 Vivien
 Vivienne
 Vladimir
+Venera
 Véronique
 Wael
 Walid
