@@ -318,6 +318,7 @@ Astrid
 Astrée
 Athéna
 Athénaïs
+Atika
 Aubin
 Aude
 Audrey
@@ -369,6 +370,7 @@ Aysel
 Aysha
 Azad
 Aziz
+Aziza
 Azélie
 Aïcha
 Aïda
@@ -560,6 +562,7 @@ Christopher
 Chrystian
 Chrystel
 Chrystelle
+Chrystèle
 Chérine
 Ciara
 Cindi
@@ -841,6 +844,7 @@ Emilia
 Emilie
 Emilien
 Emilienne
+Emiline
 Emilio
 Emily
 Emir
@@ -874,6 +878,7 @@ Erwan
 Erwann
 Eryne
 Esmée
+Essofy
 Esteban
 Estelle
 Esther
@@ -969,6 +974,7 @@ Florentin
 Florette
 Florian
 Floriane
+Florisse
 Fodé
 Foucauld
 France-Lise
@@ -1329,6 +1335,7 @@ Jean-Yves
 Jean-Élie
 Jeanine
 Jeanne
+Jeanne-Marie
 Jeannette
 Jeannick
 Jefferson
@@ -2094,6 +2101,7 @@ Mohamed-Lamine
 Mohammad
 Mohammed
 Molly
+Monaïm
 Monica
 Monique
 Morgan
@@ -2358,6 +2366,7 @@ Philéas
 Philémon
 Pierik
 Pierre
+Pierre-Alain
 Pierre-Alexandre
 Pierre-Antoine
 Pierre-Baptiste
@@ -2376,6 +2385,7 @@ Pierro
 Pierrot
 Pietro
 Preston
+Pricilia
 Prince
 Prisca
 Priscilia
@@ -2591,6 +2601,7 @@ Shanna
 Shannon
 Shanon
 Shany
+Sharlène
 Sharon
 Shawn
 Shay
@@ -2789,6 +2800,7 @@ Timoté
 Timéo
 Tina
 Tiphaine
+Tiphanie
 Titouan
 Tobias
 Tom
@@ -2924,6 +2936,7 @@ Yoav
 Yoel
 Yohan
 Yohann
+Yolaine
 Yolan
 Yona
 Yoni

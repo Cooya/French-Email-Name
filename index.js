@@ -15,20 +15,20 @@ function extractFirstNameFromEmail(email) {
 			if(emailSplit[0].match(new RegExp('^' + firstName.lowercase + '\\.')))
 				return firstName.original;
 
-	const hardMatches = [];
-	const easyMatches = [];
+	const exactMatches = [], closeMatches = [];
 
 	for(let firstName of firstNames) {
 		if(emailSplit[0].match(new RegExp(`\\b${firstName.lowercase}\\b`)))
-			hardMatches.push(firstName.original);
-		if(emailSplit[0].includes(firstName.lowercase) && !emailSplit[0].match(new RegExp(`[a-z.]${firstName.lowercase}[a-z.]`)) && emailSplit[0].length - 1 > firstName.lowercase.length)
-			easyMatches.push(firstName.original);
+			exactMatches.push(firstName.original);
+		
+		if(emailSplit[0].includes(firstName.lowercase) && !emailSplit[0].match(new RegExp(`[a-z.]${firstName.lowercase}[a-z.]`)))
+			closeMatches.push(firstName.original);
 	}
 
-	if(hardMatches.length)
-		return hardMatches.filter(x => !!x).sort((a, b) => b.length - a.length)[0];
-	if(easyMatches.length)
-		return easyMatches.filter(x => !!x).sort((a, b) => b.length - a.length)[0];
+	if(exactMatches.length)
+		return exactMatches.filter(x => !!x).sort((a, b) => b.length - a.length)[0];
+	if(closeMatches.length)
+		return closeMatches.filter(x => !!x).sort((a, b) => b.length - a.length)[0];
 
 	return null;
 }
