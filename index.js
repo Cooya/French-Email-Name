@@ -7,8 +7,8 @@ const firstNames = require('fs').readFileSync(__dirname + '/first_names.txt').to
 
 function extractFirstNameFromEmail(email) {
 	const emailSplit = email.replace('-', '').split('@');
-	if(emailSplit[0].match(/^[a-z]\.[a-z]+$/))
-		return null;
+	// if(emailSplit[0].match(/^[a-z]\.[a-z]+$/))
+	// 	return null;
 
 	if(emailSplit[0].match(/^[a-z]+\.[a-z]+$/))
 		for(let firstName of firstNames)
@@ -20,8 +20,8 @@ function extractFirstNameFromEmail(email) {
 	for(let firstName of firstNames) {
 		if(emailSplit[0].match(new RegExp(`\\b${firstName.lowercase}\\b`)))
 			exactMatches.push(firstName.original);
-		
-		if(emailSplit[0].includes(firstName.lowercase) && !emailSplit[0].match(new RegExp(`[a-z.]${firstName.lowercase}[a-z.]`)))
+
+		if(emailSplit[0].includes(firstName.lowercase) && !emailSplit[0].match(new RegExp(`[a-z]${firstName.lowercase}[a-z]`)))
 			closeMatches.push(firstName.original);
 	}
 

@@ -66,6 +66,7 @@ Ahmed
 Aicha
 Aidan
 Aiden
+Aiman
 Aimeline
 Aimen
 Aimé
@@ -269,6 +270,7 @@ Antonina
 Antonio
 Antony
 Anya
+Anzo
 Apolline
 Appoline
 April
@@ -436,6 +438,7 @@ Blandine
 Blessing
 Bogdan
 Bonnie
+Bonny
 Boris
 Bosco
 Boubacar
@@ -457,6 +460,7 @@ Bryan
 Bryce
 Béatrice
 Béatrix
+Bélinda
 Bénédicte
 Bérangère
 Bérengère
@@ -493,6 +497,7 @@ Carola
 Carole
 Carolina
 Caroline
+Carolyn
 Cassandra
 Cassandre
 Cassidy
@@ -977,6 +982,7 @@ Floriane
 Florisse
 Fodé
 Foucauld
+Foued
 France-Lise
 Francesca
 Francesco
@@ -1070,6 +1076,7 @@ Guenaël
 Guilhem
 Guillaume
 Guillemette
+Guillemin
 Guitou
 Gustave
 Guy
@@ -1099,6 +1106,7 @@ Hadja
 Hadriel
 Hadrien
 Hafsa
+Hagère
 Hajar
 Hakim
 Halima
@@ -1109,6 +1117,7 @@ Hamidou
 Hamza
 Hana
 Hanaa
+Hanane
 Hanaé
 Hania
 Hanna
@@ -1300,6 +1309,7 @@ Jason
 Jassem
 Jassim
 Jawad
+Jawade
 Jawed
 Jayan
 Jayden
@@ -1317,10 +1327,11 @@ Jean-Emmanuel
 Jean-François
 Jean-Georges
 Jean-Jacques
-Jean-Léon
+Jean-Laurent
 Jean-Louis
 Jean-Loup
 Jean-Luc
+Jean-Léon
 Jean-Marc
 Jean-Marie
 Jean-Mary
@@ -1331,6 +1342,8 @@ Jean-Patrick
 Jean-Paul
 Jean-Philippe
 Jean-Pierre
+Jean-Raynald
+Jean-René
 Jean-Yves
 Jean-Élie
 Jeanine
@@ -1431,6 +1444,7 @@ Justin
 Justine
 Jérémi
 Jérémia
+Jérémiah
 Jérémie
 Jérémy
 Jérémy
@@ -1467,6 +1481,7 @@ Karolina
 Karolyn
 Karène
 Kassandra
+Kassandre
 Kassim
 Katarina
 Kate
@@ -1586,6 +1601,7 @@ Lazare
 Laëtitia
 Laëtitia
 Laïa
+Laïssa
 Leah
 Leana
 Leandro
@@ -1842,6 +1858,7 @@ Marcelline
 Marcello
 Marco
 Marcus
+Margau
 Margaux
 Margo
 Margot
@@ -1885,6 +1902,7 @@ Marie-Line
 Marie-Lou
 Marie-Louise
 Marie-Luce
+Marie-Léone
 Marie-Madeleine
 Marie-Noëlle
 Marie-Paule
@@ -1927,6 +1945,7 @@ Marouane
 Marta
 Martha
 Marthe
+Martial
 Martin
 Martine
 Marvin
@@ -2031,6 +2050,7 @@ Maÿlis
 Medhy
 Mehdi
 Mehdy
+Mehreen
 Meir
 Melchior
 Mellina
@@ -2288,6 +2308,7 @@ Océanne
 Odessa
 Odile
 Odélia
+Olesia
 Olga
 Olive
 Oliver
@@ -2354,6 +2375,7 @@ Perla
 Perle
 Perrine
 Peter
+Phanie
 Pharell
 Philibert
 Philip
@@ -2376,6 +2398,7 @@ Pierre-François
 Pierre-Henri
 Pierre-Jean
 Pierre-Louis
+Pierre-Marie
 Pierre-Nicolas
 Pierre-Olivier
 Pierre-Yves
@@ -2407,6 +2430,7 @@ Rachel
 Rachelle
 Rachid
 Racim
+Radouan
 Rafaël
 Rafaëla
 Rahim
@@ -2743,6 +2767,7 @@ Tara
 Tarik
 Tasnim
 Tasnime
+Tassiana
 Tatiana
 Taym
 Tayron
@@ -2871,6 +2896,7 @@ Venera
 Véronique
 Wael
 Walid
+Walter
 Wanda
 Wandrille
 Warren
