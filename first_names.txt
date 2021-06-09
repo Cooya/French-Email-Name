@@ -152,6 +152,7 @@ Alvin
 Alya
 Alyah
 Alycia
+Alyson
 Alyssa
 Alyssia
 Alysson
@@ -510,6 +511,7 @@ Catherine
 Cathy
 Celerine
 Celeste
+Cendrine
 Cerise
 Chad
 Chaden
@@ -526,6 +528,7 @@ Chantal
 Chantale
 Charla
 Charles
+Charles-Antoine
 Charles-Edouard
 Charles-Hubert
 Charlie
@@ -719,6 +722,7 @@ Donatien
 Donia
 Dora
 Dorian
+Doriana
 Doriane
 Dorine
 Doron
@@ -746,6 +750,7 @@ Eduardo
 Edward
 Edwige
 Edwin
+Edwina
 Eglantine
 Eileen
 Elaine
@@ -921,6 +926,7 @@ Fabien
 Fabienne
 Fabio
 Fabrice
+Fabrizio
 Fadi
 Fady
 Fahd
@@ -948,6 +954,7 @@ Fatou
 Fatouma
 Fatoumata
 Faustine
+Faycal
 Federico
 Fedoua
 Felix
@@ -995,6 +1002,7 @@ Franz
 François
 François-Xavier
 Françoise
+Fred
 Freddy
 Frederico
 Frida
@@ -1043,6 +1051,7 @@ George
 Georges
 Georgia
 Germain
+Ghariba
 Ghislain
 Ghislaine
 Giacomo
@@ -1240,6 +1249,7 @@ Inès
 Ioana
 Ioann
 Iona
+Irfan
 Irina
 Iris
 Irving
@@ -1314,6 +1324,7 @@ Jawed
 Jayan
 Jayden
 Jayson
+Jaël
 Jean
 Jean-Adrien
 Jean-Baptiste
@@ -1351,6 +1362,7 @@ Jeanne
 Jeanne-Marie
 Jeannette
 Jeannick
+Jeannot
 Jefferson
 Jeffrey
 Jehanne
@@ -1380,6 +1392,7 @@ Joana
 Joanna
 Joanne
 Joaquim
+Jocelin
 Jocelyn
 Jocelyne
 Jodie
@@ -1489,6 +1502,7 @@ Kateline
 Katell
 Katerina
 Kathleen
+Kathy
 Katia
 Kawtar
 Kawthar
@@ -1569,6 +1583,9 @@ Lana
 Lancelot
 Landry
 Lara
+Larisa
+Larissa
+Larry
 Lassana
 Laszlo
 Latifa
@@ -1879,11 +1896,13 @@ Marie-Ange
 Marie-Anne
 Marie-Annick
 Marie-Annie
+Marie-Carine
 Marie-Christine
 Marie-Claire
 Marie-Claude
 Marie-Constance
 Marie-Cécile
+Marie-Emmanuelle
 Marie-Florence
 Marie-France
 Marie-Françoise
@@ -1908,6 +1927,7 @@ Marie-Noëlle
 Marie-Paule
 Marie-Pierre
 Marie-Rose
+Marie-Sabine
 Marie-Sophie
 Marie-Thérèse
 Marie-Victoire
@@ -1965,6 +1985,7 @@ Maryse
 Maryvonne
 Maréva
 Massil
+Massimo
 Massinissa
 Massyl
 Matei
@@ -2065,7 +2086,9 @@ Meriem
 Merine
 Merlin
 Merline
+Merry
 Merve
+Merveil
 Merwan
 Meryam
 Meryem
@@ -2109,6 +2132,7 @@ Mira
 Mireille
 Mirela
 Miriam
+Mitchel
 Miya
 Moché
 Modibo
@@ -2429,6 +2453,7 @@ Racha
 Rachel
 Rachelle
 Rachid
+Rachida
 Racim
 Radouan
 Rafaël
@@ -2703,6 +2728,7 @@ Soulayman
 Souleyman
 Souleymane
 Soumaya
+Soundès
 Stacy
 Stan
 Stanislas
@@ -2826,6 +2852,7 @@ Timéo
 Tina
 Tiphaine
 Tiphanie
+Titia
 Titouan
 Tobias
 Tom
@@ -2906,6 +2933,7 @@ Waël
 Waïl
 Wendy
 Wesley
+Widade
 Wiem
 Wiktoria
 Wilfried
